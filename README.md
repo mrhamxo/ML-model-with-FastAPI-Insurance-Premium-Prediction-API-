@@ -1,18 +1,6 @@
 # ML-model-with-FastAPI (Insurance-Premium-Prediction-API)
 A production-ready AI-based FastAPI project that predicts **insurance premium categories** based on lifestyle and personal data such as age, BMI, smoking habits, income, city, and occupation. It also includes a complete patient management system with full CRUD functionality and a Streamlit-based web frontend for interaction.
 
-## 📁 Project Structure
-
-📦 insurance-premium-predictor
-│
-├── main.py                  # Entry point to run both APIs (for practice)
-├── app.py                   # Insurance premium prediction FastAPI app
-├── frontend.py              # Streamlit web interface for predictions
-├── model.pkl                # Trained ML model (OneHotEncoder + classifier)
-├── patients.json            # Local storage for patient records (as JSON DB)
-├── insurance_premium_ml.ipynb  # Jupyter notebook for model training
-└── README.md                # You're reading it!
-
 ## 🚀 Features
 
 ### ✅ Insurance Premium Predictor API
@@ -138,12 +126,8 @@ POST /predict
 
 ## 📸 Screenshots
 
-| Web UI (Streamlit)             
-
-
-## 📜 License
-
-MIT License © \[Muhammad Hamza]
+Web UI (Streamlit)             
+![Image](https://github.com/user-attachments/assets/ce2093dd-0110-45c8-9616-f913a8415bd8)
 
 ## 💬 Questions?
 
