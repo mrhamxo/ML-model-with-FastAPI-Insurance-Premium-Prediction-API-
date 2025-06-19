@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+venv/
+fastapi_env/
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS / IDE files
+.DS_Store
+*.swp
+.env
