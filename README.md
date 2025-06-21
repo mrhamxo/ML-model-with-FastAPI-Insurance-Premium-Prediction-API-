@@ -1,4 +1,4 @@
-# ML-model-with-FastAPI (Insurance-Premium-Prediction-API)
+# ML-model-with-FastAPI
 A production-ready AI-based FastAPI project that predicts **insurance premium categories** based on lifestyle and personal data such as age, BMI, smoking habits, income, city, and occupation. It also includes a complete patient management system with full CRUD functionality and a Streamlit-based web frontend for interaction.
 
 ## 🚀 Features
